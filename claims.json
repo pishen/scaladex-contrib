@@ -1941,6 +1941,7 @@
   "net.nornagon sbt-jnaerator": "scalacenter/scaladex-void",
   "net.paulgray.testing test*": "scalacenter/scaladex-void",
   "net.pishen chart4s*": "scalacenter/scaladex-void",
+  "net.pishen sbt-emr-spark": "pishen/sbt-emr-spark",
   "net.pishen sbt-spark-ec2": "scalacenter/scaladex-void",
   "net.pishen scalikejdbc-generic*": "scalacenter/scaladex-void",
   "net.pishen spark-deployer*": "kkbox/spark-deployer",
